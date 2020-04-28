@@ -1,4 +1,4 @@
-## Introduction to Automated Testing and Continuous Integration in Python
+# Introduction to Automated Testing and Continuous Integration in Python
 
 The material in this archive was developed by the University of Bristol RSE team.
 
