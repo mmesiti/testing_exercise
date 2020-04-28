@@ -8,3 +8,5 @@ under the `arrays` directory) were developed by Matt Williams and are available 
 
 The remaining material was developed by Lester Hedges and is available at
 [Chrys Woods's website](http://chryswoods.com/python_and_data/testing/README.html).
+
+This material is under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
